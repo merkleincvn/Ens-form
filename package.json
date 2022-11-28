@@ -1,0 +1,16 @@
+{
+    "name": "ENS",
+    "version": "0.0.0",
+    "scripts": {
+        "dev": "vite",
+        "build": "vite build",
+        "preview": "vite preview"
+    },
+    "devDependencies": {
+        "sass": "^1.49.8",
+        "vite": "^2.7.2"
+    },
+    "dependencies": {
+        "yup": "^0.32.11"
+    }
+}
